@@ -1,8 +1,8 @@
 
 # Hi there, I'm Raghad 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/itsraghadalotibi?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/itsraghadalotibi?style=social)
 
 ## 🚀 About Me
 
@@ -24,8 +24,8 @@ I am a software engineering student passionate about developing innovative mobil
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsraghadalotibi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsraghadalotibi&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
