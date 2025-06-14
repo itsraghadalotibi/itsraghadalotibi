@@ -8,7 +8,6 @@
 
 I am a software engineering student passionate about developing innovative mobile apps and exploring new technologies.
 
-- 🔭 I’m currently working on an iOS app project
 - 🌱 I’m currently learning Dart and Flutter
 - 🤔 I’m looking for help with community-focused app ideas
 - 💬 Ask me about AI, ML, LLMs, Flutter, iOS development, and tech competitions
@@ -16,7 +15,7 @@ I am a software engineering student passionate about developing innovative mobil
 
 ## 🛠️ Skills
 
-- **Languages**: Dart, Swift, JavaScript, PHP, Python, Java
+- **Languages**: Dart, SQL, JavaScript, PHP, Python, Java
 - **Frameworks**: Flutter, React Native, Spring Boot
 - **Tools**: Git, GitHub, Xcode
 - **Specialties**: AI, Machine Learning, Large Language Models (LLMs)
